@@ -1,7 +1,9 @@
 {
     "index":
     {
-        "welcome":"Welcome to svelte"
+        "test":"Svelte i18n Test",
+        "welcome":"Welcome to svelte",
+        "text":"<p>Visit <a href=\"https://kit.svelte.dev\">kit.svelte.dev</a> to read the documentation</p>"
     },
     "paginator":
     {

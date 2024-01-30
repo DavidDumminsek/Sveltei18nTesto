@@ -1,7 +1,9 @@
 {
     "index":
     {
-        "welcome":"Bienvenidos a svelte"
+        "test":"Svelte i18n Ensayo",
+        "welcome":"Bienvenidos a svelte",
+        "text":"<p>Visita <a href=\"https://kit.svelte.dev\">kit.svelte.dev</a> para leer la documentatión</p>"
     },
     "paginator":
     {

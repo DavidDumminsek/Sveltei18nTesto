@@ -1,9 +1,21 @@
-$primary-color:#3bf4fb;
-
+$primary-color:#EDEEC9;
+$secondary-color:#98C9A3;
+$third-color:#418B6F;
 h1{
-    margin: auto;
+    text-align: center;
 }
 body
 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:$third-color;
+    text-align: center;
     background-color: $primary-color;
+}
+button
+{
+    color:$third-color;
+    border: none;
+    font-size: 26px;
+    background-color: $secondary-color;
+    border-radius: 2px;
 }

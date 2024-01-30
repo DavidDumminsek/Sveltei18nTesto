@@ -1,0 +1,12 @@
+{
+    "index":
+    {
+        "test":"Svelte i18n Test",
+        "welcome":"Välkommen till Svelte",
+        "text":"<p>Besök <a href=\"https://kit.svelte.dev\">kit.svelte.dev</a> för att läsa dokumentationen</p>"
+    },
+    "paginator":
+    {
+        "text":"galenskap"
+    }
+}

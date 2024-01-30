@@ -1,10 +1,9 @@
 
 
 
-<script lang="ts">
-    import { onMount } from "svelte";
+<script>
     import { _ } from "svelte-i18n"
-    
 </script>
+<h1>{$_('index.test')}</h1>
 <h1 id='hi'>{$_('index.welcome')}</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+{@html $_('index.text')}

@@ -13,4 +13,5 @@
 <nav>
     <button on:click={()=>changeLocale("en")}>English</button>
     <button on:click={()=>changeLocale("es")}>Español</button>
+    <button on:click={()=>changeLocale("sv")}>Svenska</button>
 </nav>
