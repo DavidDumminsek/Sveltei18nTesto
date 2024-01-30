@@ -1,0 +1,10 @@
+{
+    "index":
+    {
+        "welcome":"Bienvenidos a svelte"
+    },
+    "paginator":
+    {
+        "text":"locura"
+    }
+}
